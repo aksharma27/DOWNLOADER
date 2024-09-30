@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FileDownloadPrototype.props" />
+</Project>
